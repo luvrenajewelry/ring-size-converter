@@ -1,0 +1,19 @@
+[
+ {"us":4,"diameter_mm":14.9,"circumference_mm":46.7,"uk":"H½","eu":47,"jp":7},
+ {"us":4.5,"diameter_mm":15.3,"circumference_mm":48.0,"uk":"I","eu":48,"jp":8},
+ {"us":5,"diameter_mm":15.7,"circumference_mm":49.3,"uk":"J½","eu":49,"jp":9},
+ {"us":5.5,"diameter_mm":16.1,"circumference_mm":50.6,"uk":"L","eu":51,"jp":10},
+ {"us":6,"diameter_mm":16.5,"circumference_mm":51.9,"uk":"M","eu":52,"jp":12},
+ {"us":6.5,"diameter_mm":16.9,"circumference_mm":53.1,"uk":"N","eu":53,"jp":13},
+ {"us":7,"diameter_mm":17.3,"circumference_mm":54.4,"uk":"O","eu":54,"jp":14},
+ {"us":7.5,"diameter_mm":17.7,"circumference_mm":55.7,"uk":"P","eu":56,"jp":15},
+ {"us":8,"diameter_mm":18.1,"circumference_mm":57.0,"uk":"Q","eu":57,"jp":16},
+ {"us":8.5,"diameter_mm":18.5,"circumference_mm":58.3,"uk":"R","eu":58,"jp":17},
+ {"us":9,"diameter_mm":18.9,"circumference_mm":59.5,"uk":"S","eu":60,"jp":19},
+ {"us":9.5,"diameter_mm":19.3,"circumference_mm":60.8,"uk":"T","eu":61,"jp":20},
+ {"us":10,"diameter_mm":19.7,"circumference_mm":62.1,"uk":"U","eu":62,"jp":22},
+ {"us":10.5,"diameter_mm":20.1,"circumference_mm":63.4,"uk":"V","eu":63,"jp":23},
+ {"us":11,"diameter_mm":20.5,"circumference_mm":64.6,"uk":"W","eu":65,"jp":24},
+ {"us":11.5,"diameter_mm":20.9,"circumference_mm":65.9,"uk":"X","eu":66,"jp":25},
+ {"us":12,"diameter_mm":21.3,"circumference_mm":67.2,"uk":"Y","eu":67,"jp":26}
+]

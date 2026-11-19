@@ -1,0 +1,10 @@
+const assert = require('assert');
+const { convert, checkEu, SIZES } = require('./ring-size');
+assert.strictEqual(convert(17.3, 'diameter').us, 7);
+assert.strictEqual(convert(7, 'us').eu, 54);
+assert.strictEqual(convert(57, 'eu').us, 8);
+assert.strictEqual(convert(52, 'circumference').us, 6);
+assert.strictEqual(convert(300, 'circumference'), null);
+assert.ok(checkEu(17.3, 54)); assert.ok(!checkEu(17.3, 14));
+SIZES.forEach(r => assert.ok(checkEu(r.diameter_mm, r.eu), 'row US ' + r.us));
+console.log('all tests passed');

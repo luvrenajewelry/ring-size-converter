@@ -1,0 +1,10 @@
+{
+  "name": "luvrena-ring-size-converter",
+  "version": "1.0.0",
+  "description": "Ring size converter and chart (US, UK, EU, Japan) from Luvrena",
+  "main": "ring-size.js",
+  "scripts": { "test": "node test.js" },
+  "keywords": ["ring size", "ring size converter", "ring size chart", "jewelry", "luvrena"],
+  "homepage": "https://luvrena.com/pages/ring-size-chart",
+  "license": "MIT"
+}
