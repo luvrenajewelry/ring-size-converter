@@ -4,7 +4,9 @@ A small, free ring size converter and size chart from [Luvrena](https://luvrena.
 
 Give it one number you know (inside diameter, inside circumference, a US size or an EU size) and it returns the same ring size in the US, UK, EU and Japanese systems.
 
-**Live version:** https://luvrena.com/pages/ring-size-chart
+**Try it:** [online demo](https://luvrenajewelry.github.io/ring-size-converter/) · [live on our store](https://luvrena.com/pages/ring-size-chart)
+
+If this saves you from a wrong size chart, a star helps other people find it.
 
 ## Why we made it
 
